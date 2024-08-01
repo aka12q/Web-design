@@ -1,7 +1,14 @@
 **Akansha Rajput**
+
+
 **Overview**
+
+
 This document provides an analysis and recommendations for improving the user experience (UX) of a software application based on the provided screenshots. The goal is to enhance the interface and interaction design to ensure a seamless and intuitive experience for users.
+
+
 **Ideology**
+
 The ideology behind these UX improvements is rooted in user-centered design principles. The aim is to create an interface that is not only aesthetically pleasing but also highly functional and accessible. Key principles include simplicity, consistency, feedback, accessibility, and customization. By focusing on the user's needs and preferences, the application can provide a more engaging and efficient experience.
 
  1. Dashboard and Navigation
